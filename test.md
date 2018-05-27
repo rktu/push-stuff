@@ -1,4 +1,4 @@
- git already installed 
+ #git already installed 
 
     git status 
        
